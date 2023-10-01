@@ -1,3 +1,3 @@
 # Deltaits
-Author: Nadiya
+Author: Nadiya Sk
 
